@@ -1,0 +1,14 @@
+{
+	"/": [],
+	"/api/login": [
+		"src/routes/api/login/+server.js"
+	],
+	"/api/measurements": [
+		"src/routes/api/measurements/+server.js"
+	],
+	"/api/user": [
+		"src/routes/api/user/+server.js"
+	],
+	"/login": [],
+	"/measurement": []
+}
